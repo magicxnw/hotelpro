@@ -1,0 +1,14 @@
+F:\秦艳娇学习资料\17期网站开发\第五章 贯穿项目第二阶段实践\网站项目实战（一）\项目框架\HotlePro\Models\bin\Debug\Models.dll
+F:\秦艳娇学习资料\17期网站开发\第五章 贯穿项目第二阶段实践\网站项目实战（一）\项目框架\HotlePro\Models\bin\Debug\Models.pdb
+F:\秦艳娇学习资料\17期网站开发\第五章 贯穿项目第二阶段实践\网站项目实战（一）\项目框架\HotlePro\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+F:\秦艳娇学习资料\17期网站开发\第五章 贯穿项目第二阶段实践\网站项目实战（一）\项目框架\HotlePro\Models\obj\Debug\Models.dll
+F:\秦艳娇学习资料\17期网站开发\第五章 贯穿项目第二阶段实践\网站项目实战（一）\项目框架\HotlePro\Models\obj\Debug\Models.pdb
+F:\【1】课程课件\【1】.NET\【2】A-全套课程\课程[19]【高级综合】：【项目实战】（六）基于ASP.NET-MVC开发企业网站\【1】ASP.NET-MVC-网站项目实战（源码+资料）\1.MVC项目【完整资料】\6_网站项目完整源码和数据库\HotlePro\Models\bin\Debug\Models.dll
+F:\【1】课程课件\【1】.NET\【2】A-全套课程\课程[19]【高级综合】：【项目实战】（六）基于ASP.NET-MVC开发企业网站\【1】ASP.NET-MVC-网站项目实战（源码+资料）\1.MVC项目【完整资料】\6_网站项目完整源码和数据库\HotlePro\Models\bin\Debug\Models.pdb
+F:\【1】课程课件\【1】.NET\【2】A-全套课程\课程[19]【高级综合】：【项目实战】（六）基于ASP.NET-MVC开发企业网站\【1】ASP.NET-MVC-网站项目实战（源码+资料）\1.MVC项目【完整资料】\6_网站项目完整源码和数据库\HotlePro\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+F:\【1】课程课件\【1】.NET\【2】A-全套课程\课程[19]【高级综合】：【项目实战】（六）基于ASP.NET-MVC开发企业网站\【1】ASP.NET-MVC-网站项目实战（源码+资料）\1.MVC项目【完整资料】\6_网站项目完整源码和数据库\HotlePro\Models\obj\Debug\Models.dll
+F:\【1】课程课件\【1】.NET\【2】A-全套课程\课程[19]【高级综合】：【项目实战】（六）基于ASP.NET-MVC开发企业网站\【1】ASP.NET-MVC-网站项目实战（源码+资料）\1.MVC项目【完整资料】\6_网站项目完整源码和数据库\HotlePro\Models\obj\Debug\Models.pdb
+H:\一c#基础\2020基于ASP.NET-MVC开发一个企业网站\01.MVC项目【完整资料】\1.MVC项目【完整资料】\6_网站项目完整源码和数据库\HotlePro\Models\obj\Debug\Models.dll
+H:\一c#基础\2020基于ASP.NET-MVC开发一个企业网站\01.MVC项目【完整资料】\1.MVC项目【完整资料】\6_网站项目完整源码和数据库\HotlePro\Models\obj\Debug\Models.pdb
+H:\一c#基础\2020基于ASP.NET-MVC开发一个企业网站\01.MVC项目【完整资料】\1.MVC项目【完整资料】\6_网站项目完整源码和数据库\HotlePro\Models\bin\Debug\Models.dll
+H:\一c#基础\2020基于ASP.NET-MVC开发一个企业网站\01.MVC项目【完整资料】\1.MVC项目【完整资料】\6_网站项目完整源码和数据库\HotlePro\Models\bin\Debug\Models.pdb
